@@ -3,6 +3,7 @@
 Hackathon powered by Innovaccion Virtual del Microsoft
 
 <h3>HACK THE OCEAN</h3>
+<p><strong>Link del Proyecto:</strong> https://aquaticclout.clousofte.com/index.html</p>
 
 <img src="assets/Guia-Tripulacion.png" width="750px">
 
