@@ -9,7 +9,7 @@
 ### Integrantes: 
 * ### [Estefania Concepcion Ramirez](https://github.com/RMEstefania)
 * ### [Hafid Davila Enriquez](https://github.com/Hafid-Davila)
-* ### [David Lucero Sigcho](https://github.com/DaidLuceroSigcho)
+* ### [David Lucero Sigcho](https://github.com/DavidLuceroSigcho)
 * ### [Jose Antonio Mora](https://github.com/JAntonioMoraG)
 * ### [Omar Duran](https://github.com/ohm10x)
 
@@ -25,7 +25,7 @@ Esto por medio de una pagina Wwb en la cual se puede monitorear la temperatura d
 
 ## Capturas del funcionamiento 
 ![HOME](assets/home.png)
-![Especies](especies.png)
+![Especies](assets/especies.png)
 ![TEMP1](assets/temp1.png)
 ![TEMP2](assets/temp2.png)
 ![prevencion](assets/prevencion.png)
