@@ -21,7 +21,7 @@ Este problema se genera desde fuera del oceano, precisamente con la contaminacio
 Pues lo primero es que hay especies que no estan acostumbradas a estas condiciones por lo que terminan muriendo, tambien el agua aumenta su temperatura y de igual manera causa problemas a distintas especies ademas que trae el problema del deshielo de los polos.
 Como podemos ver es un problema muy grave el cual para combatirlo requiere de muchos factores, por lo que nuestra solucion es tratar de concientizar a la gente en que este problema existe, que consecuencias trae, y que pequeñas acciones pueden hacer para generar un gra cambio.
 
-Esto por medio de una pagina Wwb en la cual se puede monitorear la temperatura de los principales oceanos del mundo ademas de mostrarnos las distintas especies en peligro de extision y una seccion donde nos dan acciones que puedes hacer para evitar que el problema se siga acrecentando 
+Esto por medio de una pagina Web en la cual se puede monitorear la temperatura de los principales oceanos del mundo ademas de mostrarnos las distintas especies en peligro de extision y una seccion donde nos dan acciones que puedes hacer para evitar que el problema se siga acrecentando 
 
 ## Capturas del funcionamiento 
 ![HOME](assets/home.png)
